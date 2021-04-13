@@ -13,6 +13,6 @@ background colours. I took out the sorting function at the top of the gallery an
 gallery for their prompts however I could never get it to function proprely. I left in the add photo button in hopes of getting it to work eventually.
 
 Assignment 3:
-I have made minor changes since Assignment 2 as I believe my UI to be clear and easy to use. I have foratted my application a little more since the last
+I have made minor changes since Assignment 2 as I believe my UI to be clear and easy to use. I have formatted my application a little more since the last
 assignment, adding more spacing and constraits to the design. I have added a launcher icon and secured my database so that it is no longer public. I have uploaded
 my app to the google play store however am still pending approval for my release. 
